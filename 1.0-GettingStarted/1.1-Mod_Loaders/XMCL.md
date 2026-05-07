@@ -1,5 +1,10 @@
 # 🎨 Setting Up XMCL
 
+---
+
+> [!IMPORTANT]
+> Make sure you have your Microsoft account details ready to log in once the app is installed.
+
 1.  Go to the [XMCL Home Page](https://xmcl.app/en/).
 2.  Click **App Installer**.
 3.  Run the `.appinstaller` file.
