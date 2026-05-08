@@ -69,3 +69,8 @@ You’re all set! Just double-click the instance or hit **Launch** on the right 
 *   **Simplicity:** Prism's strength is its "no-nonsense" design. Once you set your RAM and log in, you rarely ever have to look at these menus again.
 
 ---
+
+## 🚀 What's Next?
+Now that your launcher is logged in and optimized, you are ready to start creating "Instances."
+
+**Next Step:** [Understanding Instances](../1.2-Instances/Instances.md)
