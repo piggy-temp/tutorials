@@ -1,6 +1,7 @@
 # 🛠️ Adding Custom Addons (Manual)
 
-If you find a cool mod, shader, or resource pack online (on sites like Modrinth or CurseForge) that isn't in our pack, you can easily add it manually.
+If you find a mod, shader, or resource pack online that you like that isn't in the modpack already (on sites like *Modrinth or CurseForge) that isn't in our pack, you can easily add it manually.
+*Modrinth is generally preferred but because CurseForge is older it may have a wider selection and some items are exclusive to their creators like FTB and TEKKIT
 
 ### 📂 How to Access your Instance Folder
 
@@ -27,7 +28,7 @@ Once you have the folder open, just drag and drop your downloaded files into the
 * **Shaders (`.zip` files):** Drop these into the `shaderpacks` folder.
 
 > [!CAUTION]
-> **Compatibility Check:** Always ensure the mods you download are for **Fabric** and version **1.21.1**. Using "Forge" mods or the wrong version will cause the game to crash on startup.
+> **Compatibility Check:** Always ensure the mods you download are for the correct mod loader like **Fabric** and Minecraft version like **1.21.1**. Using mods for the wrong version will cause the game to crash on startup. Also
 
 ---
 
