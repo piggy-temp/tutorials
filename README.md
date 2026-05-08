@@ -23,7 +23,7 @@ Welcome! This repository is a step-by-step guide to getting Minecraft running wi
 ### [1.0 Getting Started](./1.0-Getting_Started)
 
 * **[1.1 Minecraft Launchers](./1.0-Getting_Started/1.1-Minecraft_Launchers)**
-* [Prism vs. XMCL](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism_vs_XMCL.md) - *Which one launcher should you pick?*
+* [Prism vs. XMCL](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism_vs_XMCL.md) - *Which Minecraft launcher should you pick?*
 * [Prism Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism.md) - *The "Old Reliable" setup.*
 * [XMCL Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/XMCL.md) - *The "New Customizable" setup.*
 
