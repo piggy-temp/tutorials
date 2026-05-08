@@ -28,7 +28,7 @@ Once you have the folder open, just drag and drop your downloaded files into the
 * **Shaders (`.zip` files):** Drop these into the `shaderpacks` folder.
 
 > [!CAUTION]
-> **Compatibility Check:** Always ensure the mods you download are for the correct mod loader like **Fabric** and Minecraft version like **1.21.1**. Using mods for the wrong version will cause the game to crash on startup. Also
+> **Compatibility Check:** Always ensure the mods you download are for the correct mod loader like **Fabric** and Minecraft version like **1.21.1**. Using mods for the wrong version will cause the game to crash on startup. Also be sure to check on the mod/resource's home/main page on whatever website/platform you use to download it for dependencies. Dependencies are just other mods/resources that the one you're downloading needs in order to function. For example, a lot of mods share similar rules/commands that mod developers have to code themselves so instead of having to rewrite them everytime, they make them into a mod that just holds all these rules for them and then calls back to it when writing a new mod. 
 
 ---
 
