@@ -24,32 +24,32 @@ Welcome! This repository is a step-by-step guide to getting Minecraft running wi
 
 * **[1.1 Minecraft Launchers](./1.0-Getting_Started/1.1-Minecraft_Launchers)**
 * [Prism vs. XMCL](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism_vs_XMCL.md) - *Which one launcher should you pick?*
-* [Prism Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/) - *The "Old Reliable" setup.*
-* [XMCL Setup]() - *The "New Customizable" setup.*
+* [Prism Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism.md) - *The "Old Reliable" setup.*
+* [XMCL Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/XMCL.md) - *The "New Customizable" setup.*
 
 
-* **1.2 Instances**
-* [What is an Instance?]() - *Why we don't use the default launcher.*
-* [Finding Our Modpack]() - *How to find "Vanilla Perfected."*
+* **[1.2 Instances](./1.0-Getting_Started/1.2-Instances)**
+* [What is an Instance?](./1.0-Getting_Started/1.2-Instances/Instances.md) - *Why we don't use the default launcher.*
+* [Finding Our Modpack](./1.0-Getting_Started/1.2-Instances/Our_Instance.md) - *How to find "Vanilla Perfected."*
 
 
-* **1.3 Customization**
-* [Adding Custom Mods]() - *How to add your own flair.*
-* [My Addons]() - *Links to the mods I personally use.*
+* **[1.3 Customization](./1.0-Getting_Started/1.3-Customization)**
+* [Adding Custom Mods](./1.0-Getting_Started/1.3-Customization/Custom_Mods.md) - *How to add your own flair.*
+* [My Addons](./1.0-Getting_Started/1.3-Customization/My_Addons.md) - *Links to the mods I personally use.*
 
 
 
-### [2.0 Account Integrations]()
+### [2.0 Account Integrations](./2.0-Accounts)
 
-* [GitHub Setup]() - *Making a "burner" account for server access.*
-* [VS Code & Codespaces]() - *How to remote-control the server.*
+* [GitHub Setup](./2.0-Accounts/2.1-Github.md) - *Making a "burner" account for server access.*
+* [VS Code & Codespaces](./2.0-Accounts/2.2-VS_Code.md) - *How to remote-control the server.*
 
-### [3.0 Playing]()
+### [3.0 Playing](./3.0-Playing)
 
-* [Starting the Server]() - *IP Address and Admin powers.*
-* [Game Settings]() - *Keybinds and FPS optimization.*
-* [Editing the Server]() - *Advanced Bash commands and file editing.*
+* [Starting the Server](./3.0-Playing/3.1-Starting_Server.md) - *IP Address and Admin powers.*
+* [Game Settings](./3.0-Playing/3.2-Game_Settings.md) - *Keybinds and FPS optimization.*
+* [Editing the Server](./3.0-Playing/3.3-Editing_Server.md) - *Advanced Bash commands and file editing... ie. Coding.*
 
-### [4.0 Adding People]()
+### [4.0 Adding People](./4.0-Adding_People)
 
-* [Sharing & Permissions]() - *How to invite friends.*
+* [Sharing & Permissions](./4.0-Adding_People/Sharing.md) - *How to invite friends.*
