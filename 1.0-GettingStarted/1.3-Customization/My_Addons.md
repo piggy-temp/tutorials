@@ -29,4 +29,4 @@ I also host a repository for quick access to smaller configs and scripts.
 
 ---
 
-**Next Section:** [2.0 - Account/Server Integration](../2.0-Accounts/2.1-Github.md)
+**Next Section:** [2.0 - Account/Server Integration](../../2.0-Accounts/2.1-Github.md)
