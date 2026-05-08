@@ -23,19 +23,19 @@ Welcome! This repository is a step-by-step guide to getting Minecraft running wi
 ### [1.0 Getting Started](./1.0-Getting_Started)
 
 * **[1.1 Minecraft Launchers](./1.0-Getting_Started/1.1-Minecraft_Launchers)**
-* [Prism vs. XMCL](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism_vs_XMCL.md) - *Which Minecraft launcher should you pick?*
-* [Prism Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism.md) - *The "Old Reliable" setup.*
-* [XMCL Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/XMCL.md) - *The "New Customizable" setup.*
+    * [Prism vs. XMCL](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism_vs_XMCL.md) - *Which Minecraft launcher should you pick?*
+    * [Prism Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/Prism.md) - *The "Old Reliable" setup.*
+    * [XMCL Setup](./1.0-Getting_Started/1.1-Minecraft_Launchers/XMCL.md) - *The "New Customizable" setup.*
 
 
 * **[1.2 Instances](./1.0-Getting_Started/1.2-Instances)**
-* [What is an Instance?](./1.0-Getting_Started/1.2-Instances/Instances.md) - *Why we don't use the default launcher.*
-* [Finding Our Modpack](./1.0-Getting_Started/1.2-Instances/Our_Instance.md) - *How to find "Vanilla Perfected."*
+    * [What is an Instance?](./1.0-Getting_Started/1.2-Instances/Instances.md) - *Why we don't use the default launcher.*
+    * [Finding Our Modpack](./1.0-Getting_Started/1.2-Instances/Our_Instance.md) - *How to find "Vanilla Perfected."*
 
 
 * **[1.3 Customization](./1.0-Getting_Started/1.3-Customization)**
-* [Adding Custom Mods](./1.0-Getting_Started/1.3-Customization/Custom_Mods.md) - *How to add your own flair.*
-* [My Addons](./1.0-Getting_Started/1.3-Customization/My_Addons.md) - *Links to the mods I personally use.*
+    * [Adding Custom Mods](./1.0-Getting_Started/1.3-Customization/Custom_Mods.md) - *How to add your own flair.*
+    * [My Addons](./1.0-Getting_Started/1.3-Customization/My_Addons.md) - *Links to the mods I personally use.*
 
 
 
