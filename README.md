@@ -52,4 +52,8 @@ Welcome! This repository is a step-by-step guide to getting Minecraft running wi
 
 ### [4.0 Adding People](./4.0-Adding_People)
 
-* [Sharing & Permissions](./4.0-Adding_People/Sharing.md) - *How to invite friends.*
+* [Sharing & Permissions](./4.0-Adding_People/4.1-Sharing.md) - *How to invite friends.*
+
+### [5.0 Miscellaneous](./5.0-Miscellaneous)
+
+* [WIP](./5.0-Miscellaneous/WIP.md) - *This section is as of yet unwritten and I think I'll use it to make more advanced tutorials about less important things.*
