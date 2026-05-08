@@ -32,5 +32,3 @@ Once you have the folder open, just drag and drop your downloaded files into the
 ---
 
 **Next Step:** [My Custom Addons](https://www.google.com/search?q=./My_Addons.md)
-
----
