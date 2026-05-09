@@ -1,6 +1,6 @@
 # 📦 My Custom Addons
 
-I’ve put together a specific set of extra mods and visual tweaks that I use to enhance the experience even further. You can grab them from the links below.
+I’ve put together a specific set of extra mods and visual tweaks that I use to enhance the experience even further. You can grab them from the links below. If there is a folder for the modpack we are using, and there are mods, shaderpacks, or resourcepacks inside, you should probably add them to your instance as well before you try to join the server.
 
 ### 📍 Where to find them
 
