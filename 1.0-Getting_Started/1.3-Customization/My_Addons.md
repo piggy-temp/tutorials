@@ -15,7 +15,7 @@ I keep a mirror of all my additional mods here.
 
 I also host a repository for quick access to smaller configs and scripts.
 
-* **Link:** [GitHub Repo - Modpacks]()
+* **Link:** [GitHub Repo - Modpacks](https://github.com/piggy-temp/modpacks)
 * **Note on GitHub Files:** You may see a folder called `overrides`. You can **ignore** this—those are specific files I use for the server side only.
 
 ---
