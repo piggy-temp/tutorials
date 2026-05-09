@@ -10,7 +10,7 @@ Welcome! This repository is a step-by-step guide to getting Minecraft running wi
 
 | If you... | Read these pages (in order): |
 | --- | --- |
-| **Are completely new & want the best experience** | 1.3 ➔ 1.1 (Prism_vs_XMCL) ➔ 1.2 ➔ 1.3 ➔ 3.1 ➔ 3.2 ➔ 4.1 |
+| **Are completely new & want the best experience** | 1.1 (Prism_vs_XMCL) ➔ 1.2 ➔ 1.3 ➔ 3.1 ➔ 3.2 ➔ 4.1 |
 | **New but want the easiest/fastest setup** | 1.1 (pick Prism.md or XMCL.md) ➔ 1.2 ➔ 1.3 (My_Addons.md) ➔ 3.1 |
 | **Already familiar with Minecraft launchers** | 1.3 (My_Addons.md) ➔ 3.1 |
 | **Want to be able to start/stop the server** | 2.1 ➔ 2.2 |
