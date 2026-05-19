@@ -1,4 +1,4 @@
-<img width="791" height="769" alt="image" src="https://github.com/user-attachments/assets/53fbba64-4cd5-4a6b-bc0f-529d4042e6ff" /># 💎 Setting Up Prism Launcher
+# 💎 Setting Up Prism Launcher
 
 ---
 
@@ -45,7 +45,7 @@ Modpacks require more "brain power" from your computer than standard Minecraft. 
 ---
 
 ## 💾 3. Update Files
-Our modpack may have some extra files that are missing in the origninal installation. Go to the Google Drive folder 
+Our modpack may have some extra files that are missing in the origninal installation. If you don't want to follow the tutorial, skip ahead to [Our Instances](../1.2-Instances/Our_Instance.md)
 
 ---
 
